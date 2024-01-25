@@ -13,26 +13,26 @@
 - Produkte von bestimmten Marken
 ## 4) Verschiedene Lizenz-Modelle
 - **Proprietäre Software** (Closed Source) -> Kostenpflichtig
-	- *Dauerlizenz* -> Für immer
-	- *Abo-basierte Lizenz* -> Für *x* Monate/Jahre
-	- *Node-Locked Lizenz* -> Nur auf einem Gerät
-	- *Floating-Lizenz* -> Kann von verschiedenen Usern genutzt werden (immer nur von einem zur selben Zeit)
+    - *Dauerlizenz* -> Für immer
+    - *Abo-basierte Lizenz* -> Für *x* Monate/Jahre
+    - *Node-Locked Lizenz* -> Nur auf einem Gerät
+    - *Floating-Lizenz* -> Kann von verschiedenen Usern genutzt werden (immer nur von einem zur selben Zeit)
 - **Open Source** -> Kostenlos, Quellcode kann angesehen werden
-	- *GNU General Public License* -> 
-		- Software ist Quelloffen und kostenlos verfügbar
-		- Alle Abwandlung von Software die dieser Lizenz angehört dürfen nur veröffentlicht werden, wenn diese wieder mit GNU Lizenziert sind
+    - *GNU General Public License* -> 
+        - Software ist Quelloffen und kostenlos verfügbar
+        - Alle Abwandlung von Software die dieser Lizenz angehört dürfen nur veröffentlicht werden, wenn diese wieder mit GNU Lizenziert sind
 ## 5) Open Source Software
 - Jeder kann die Software benutzen
 - Der Quellcode ist einsehbar
 - Man darf sie ändern und selbst publizieren
 - **Beispiele:**
-	- Linux
-	- Firefox
-	- LibreOffice
-	- Python
-	- GIMP
-	- Blender
-	- PostgreSQL
+    - Linux
+    - Firefox
+    - LibreOffice
+    - Python
+    - GIMP
+    - Blender
+    - PostgreSQL
 ## 6) Copyright vs Copyleft
 | Copyright | Copyleft |
 | ----------------- | -------------- |
